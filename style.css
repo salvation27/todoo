@@ -1,0 +1,15 @@
+html,body {
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+}
+.active {
+text-decoration: line-through;
+}
+li {
+  cursor: pointer;
+  margin: 10px 0px;
+}
+li button {
+ margin-left: 10px;
+}
